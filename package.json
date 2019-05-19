@@ -1,0 +1,22 @@
+{
+  "name": "aws-dynamodb-helper-nodejs",
+  "version": "0.0.1",
+  "description": "Helper functions fo aws sdk ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digile/aws-dynamodb-helper-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Digile/aws-dynamodb-helper-nodejs/issues"
+  },
+  "homepage": "https://github.com/Digile/aws-dynamodb-helper-nodejs#readme",
+  "peerDependencies": {
+    "aws-sdk": "^2.416.0"
+  }
+}
